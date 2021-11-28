@@ -13,6 +13,14 @@ For this assignment we were tasked with creating a short demo of error handling 
 I started by building out the individual, reusable components of the demo which were a a custom error handling class, a write_to_file() function, and a read_from_file() function. After that, I was able to start developing the presentation or main code block. I collect user input and then run it through a try except block so I can do my error handling. If the data is correct then the data can be written to the file otherwise it is passed as an error and the Exception and Customer Error class can handle it.
 
 ```
+# ---------------------------------------------------------------------------- #
+# Title: Assignment 07
+# Description: Demo of pickle and customer error handling
+# ChangeLog (Who,When,What):
+# Slai,11.27.2021,Created Script
+# ---------------------------------------------------------------------------- #
+
+
 ## Customer Error Class Code
 class IsNumericError(Exception):
     """
