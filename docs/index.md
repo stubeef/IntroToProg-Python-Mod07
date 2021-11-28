@@ -43,10 +43,10 @@ except Exception as e:
 ![Results of Figure 1](Screen%20Shot%202021-11-28%20at%2012.11.28%20PM.png "Figure 1") 
 ****Figure 1 - Example of code accepting a correctly formatted input****  
 
-![Results of Figure 2](https://github.com/stubeef/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%2012.13.06%20PM.png "Figure 2") 
+![Results of Figure 2](Screen%20Shot%202021-11-28%20at%2012.13.06%20PM.png "Figure 2") 
 ****Figure 2 - Example of code accepting a correctly formatted input****  
 
-![Results of Figure 3](https://github.com/stubeef/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%2012.20.42%20PM.png "Figure 3")   
+![Results of Figure 3](Screen%20Shot%202021-11-28%20at%2012.20.42%20PM.png "Figure 3")   
 ****Figure 3 - Example of code accepting a correctly formatted input****  
 
 ### Summary
