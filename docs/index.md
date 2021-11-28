@@ -40,7 +40,7 @@ except Exception as e:
     print(e,e.__doc__, type(e), sep = '\n')
  ```
 
-![Results of Figure 1](https://github.com/stubeef/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%2012.11.28%20PM.png "Figure 1") 
+![Results of Figure 1](Screen%20Shot%202021-11-28%20at%2012.11.28%20PM.png "Figure 1") 
 ****Figure 1 - Example of code accepting a correctly formatted input****  
 
 ![Results of Figure 2](https://github.com/stubeef/IntroToProg-Python-Mod07/blob/main/docs/Screen%20Shot%202021-11-28%20at%2012.13.06%20PM.png "Figure 2") 
