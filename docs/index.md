@@ -41,13 +41,13 @@ except Exception as e:
  ```
 
 ![Results of Figure 1](Screen%20Shot%202021-11-28%20at%2012.11.28%20PM.png "Figure 1") 
-****Figure 1 - Example of code accepting a correctly formatted input****  
+*Figure 1 - Example of code accepting a correctly formatted input*.  
 
 ![Results of Figure 2](Screen%20Shot%202021-11-28%20at%2012.13.06%20PM.png "Figure 2") 
-****Figure 2 - Example of code accepting a correctly formatted input****  
+*Figure 2 - Example of code accepting a correctly formatted input*. 
 
 ![Results of Figure 3](Screen%20Shot%202021-11-28%20at%2012.20.42%20PM.png "Figure 3")   
-****Figure 3 - Example of code accepting a correctly formatted input****  
+*Figure 3 - Example of code accepting a correctly formatted input*.  
 
 ### Summary
 In summary, this assignment was a good introduction to handling errors and making errors and debugging more visible and clear. Using custom error classes are a great tool for designing custom error handling which makes it much easier to tune code and classes for my specific use cases. The try except code block also makes it much easier to integrate error handling into production code. Ultimately, this helps with creating more resilient code that won’t break over a simple error and many small errors can be made visible and quickly solved. 
